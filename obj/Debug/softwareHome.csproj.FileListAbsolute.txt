@@ -1,0 +1,13 @@
+C:\Users\Can\source\repos\softwareHome\softwareHome\bin\Debug\softwareHome.exe.config
+C:\Users\Can\source\repos\softwareHome\softwareHome\bin\Debug\softwareHome.exe
+C:\Users\Can\source\repos\softwareHome\softwareHome\bin\Debug\softwareHome.pdb
+C:\Users\Can\source\repos\softwareHome\softwareHome\obj\Debug\softwareHome.csproj.AssemblyReference.cache
+C:\Users\Can\source\repos\softwareHome\softwareHome\obj\Debug\softwareHome.Form1.resources
+C:\Users\Can\source\repos\softwareHome\softwareHome\obj\Debug\softwareHome.Properties.Resources.resources
+C:\Users\Can\source\repos\softwareHome\softwareHome\obj\Debug\softwareHome.csproj.GenerateResource.cache
+C:\Users\Can\source\repos\softwareHome\softwareHome\obj\Debug\softwareHome.csproj.CoreCompileInputs.cache
+C:\Users\Can\source\repos\softwareHome\softwareHome\obj\Debug\softwareHome.exe
+C:\Users\Can\source\repos\softwareHome\softwareHome\obj\Debug\softwareHome.pdb
+C:\Users\Can\source\repos\softwareHome\softwareHome\bin\Debug\System.CodeDom.dll
+C:\Users\Can\source\repos\softwareHome\softwareHome\bin\Debug\System.CodeDom.xml
+C:\Users\Can\source\repos\softwareHome\softwareHome\obj\Debug\software.A9555A5B.Up2Date
